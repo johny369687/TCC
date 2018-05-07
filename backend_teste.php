@@ -14,9 +14,8 @@
     <div class="underlay-photo"></div>
     <div class="underlay-black"></div>
     
-    <div class="img-circle ">
 
-<img class="rounded-circle img-fluid" img-fluid src="icon.png" alt="">
+<img class="perfilimg" align="center" img-fluid src="neurogame2.jpg" alt="Admin" style="width:200px">
 
     <form class="login-form" method="POST" action="PHP_login.php">
         
